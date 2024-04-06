@@ -1,0 +1,39 @@
+.blog-posts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .blog-post {
+    width: 30%;
+    margin-bottom: 70px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .blog-post h2 {
+    margin-top: 0;
+  }
+  
+  .blog-post p {
+    margin-bottom: 15px;
+  }
+  
+ 
+  
+  
+  .footer {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px 0;
+    background-color: #222;
+  }
+  
+  .footer p {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    font-family: sans-serif;
+  }
+  

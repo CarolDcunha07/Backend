@@ -1,0 +1,56 @@
+
+.home {
+    background-color: black;
+    color: white;
+    padding: 20px;
+  }
+  
+  .club-section {
+    margin-top: 40px;
+
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+  }
+  
+  .club-details {
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .club-details h2,
+  .club-details p {
+    margin: 0;
+  }
+  
+  .club-image {
+    width: 60%;
+    max-width: 7500px; 
+    height: 250;
+    margin-right: 20px;
+    border-radius: 8px;
+  }
+
+.explore-button-container {
+    display: inline-block;
+    background-color: white; 
+    border-radius: 8px; 
+    padding: 10px 20px; 
+    margin-top: 10px;
+  }
+  
+  .explore-button {
+    display: inline-block;
+    background-color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+
+  
+  

@@ -1,0 +1,42 @@
+.person-cards-container {
+    margin-top: 210px; 
+    margin-bottom: 100px;
+  }
+.heading{
+    display: flex;
+    padding-left: 10px;
+}
+.person-card {
+    display: inline-block;
+    width: calc(33.33% - 20px);
+    margin-right: 20px;
+    vertical-align: top;
+    box-sizing: border-box;
+  }
+  
+  .person-card img {
+    width: 100%;
+    padding-top: 10px;
+    height: auto;
+    object-fit: cover;
+    padding-left: 10px;
+  }
+  
+  .person-description {
+    margin-top: 10px;
+  }
+
+  .footer {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: sans-serif;
+
+  }
+  
+  
+  
